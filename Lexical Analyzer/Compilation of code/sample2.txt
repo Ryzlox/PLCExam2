@@ -1,0 +1,5 @@
+double testFunc(int initial, int secondNum)
+    {
+        int product = initial + secondNum;
+        return product;
+    }

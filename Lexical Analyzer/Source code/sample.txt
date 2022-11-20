@@ -1,0 +1,5 @@
+double testFunc(int initial, int addend)
+    {
+        int total = initial + addend;
+        return total;
+    }
