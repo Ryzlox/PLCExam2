@@ -1,3 +1,6 @@
+Rao Oad
+PLC MW 5:30 - 7:15
+
 a. Lexemes can be categorized into tokens based on their contents or what they start with.
 If they contain a number and a period, we can classify them as a double. If they contain a number
 and no period, they can be classified as an integer.
