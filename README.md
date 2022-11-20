@@ -49,6 +49,7 @@ M: Multiplication and Division
 S: Subtraction and Division
 E: Equivalence, when comparing values in a conditional case (etc: if (x == 2))
 A: Assignment, after all other operations are performed, the final value is assigned to a variable
-   Example: int a = 2(3 + 4);
-	    int a = 2(7);
-	    int a = 14;
+   Example:
+   int a = 2(3 + 4);
+   int a = 2(7);
+   int a = 14;
