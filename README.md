@@ -32,7 +32,7 @@ b. Variable names must not start with a number or special symbols, capitals, or 
 Selection statements should follow an if-then, if-else, or switch structure for uniform format and continuity purposes.
 Keywords that are used include but are not limited to:
 
-			"import", "class", "while", "if", "else", "public",
+	    "import", "class", "while", "if", "else", "public",
             "private", "protected", "switch", "case", "super",
             "static", "implements", "interface", "package", "new",
             "continue", "try", "this", "final", "byte", "int", "char",
@@ -49,6 +49,6 @@ M: Multiplication and Division
 S: Subtraction and Division
 E: Equivalence, when comparing values in a conditional case (etc: if (x == 2))
 A: Assignment, after all other operations are performed, the final value is assigned to a variable
-   Example: int a = 2(3 + 4)
-			int a = 2(7)
-			int a = 14
+   Example: int a = 2(3 + 4);
+	    int a = 2(7);
+	    int a = 14;
